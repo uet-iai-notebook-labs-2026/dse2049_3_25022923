@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+data/
+bao_cao_lab02.json
+figures/
+data_demo/
+raw/
+t6.csv
+t6.parquet
+ho_so_*.csv
+qa_report_*.csv
+cache_gemini_*.json
